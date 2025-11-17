@@ -6,7 +6,7 @@ main {
 
 .header {
   display: grid;
-  align-elems: center;
+  align-items: center;
   grid-template-columns: 1.51fr 2fr 1.5fr;
   padding: 92px 51px 89px;
 }
@@ -139,7 +139,7 @@ main {
   z-index: 1;
   display: flex;
   justify-content: flex-end;
-  align-elems: center;
+  align-items: center;
   gap: 78px;
   padding: 136px 0 0;
 }
@@ -260,7 +260,7 @@ main {
 .info_logo {
   display: flex;
   justify-content: center;
-  align-elems: center;
+  align-items: center;
   width: 240px;
   height: 240px;
   border-radius: 50%;
